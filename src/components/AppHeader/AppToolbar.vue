@@ -8,10 +8,6 @@
 
         <p class="mb-0 mr-5">Account Holder: {{ accountName }} </p>
         
-        <v-toolbar-items>
-            <v-btn text :to="{ name: 'EdfPortal' }">Portal <v-icon class="fad fa-gear" /></v-btn>
-        </v-toolbar-items>
-        
     </v-app-bar>
 </template>
 
