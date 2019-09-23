@@ -18,7 +18,6 @@ const vuetify = new Vuetify({
 })
 
 const router = new VueRouter({
-  mode: 'hash',
   routes
 })
 
